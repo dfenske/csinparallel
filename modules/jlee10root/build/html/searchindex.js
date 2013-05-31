@@ -1,1 +1,1 @@
-Search.setIndex({envversion:42,terms:{},objtypes:{},objnames:{},filenames:["index"],titles:["testModuleJLee10"],objects:{},titleterms:{testmodulejlee10:0}})
+Search.setIndex({envversion:42,terms:{meow:0,mix:0},objtypes:{},objnames:{},filenames:["index"],titles:["testModuleJLee10"],objects:{},titleterms:{testmodulejlee10:0}})
